@@ -2,10 +2,12 @@
 
 Vous allez découvrir sur ce site le projet du groupe 24 qui consiste en un Service LDAP.
 
+## Table des Matières
+
 ## Qu'est ce qu'un service LDAP ??
 
-Un service LDAP est un annuaire qui permet de trier et ranger des informations à propos d'un sujet en particulier. 
-Dans notre cas nous allons chercher a stocker les informations des clients d'une entreprise quelconque.
+Un service LDAP est un annuaire qui permet de trier et de ranger des informations à propos d'un sujet en particulier.
+Dans notre cas, nous allons chercher à stocker les informations des clients d'une entreprise quelconque.
 
 ### Markdown
 
