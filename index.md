@@ -1,6 +1,6 @@
 ## Bonjour et bienvenu sur la Saé 2.3
 
-You can use the [editor on GitHub](https://github.com/RazmoLeRat/docker-sae203/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Vous allez découvrir sur ce site le projet du groupe 24 qui consiste en ...
 
 PK CA NE MARCHE PASSSSSSS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
