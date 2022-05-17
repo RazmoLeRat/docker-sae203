@@ -1,10 +1,10 @@
 ## Bonjour et bienvenu sur la Saé 2.3
 
-Vous allez découvrir sur ce site le projet du groupe 24 qui consiste en ...
+Vous allez découvrir sur ce site le projet du groupe 24 qui consiste en un Service LDAP.
 
-PK CA NE MARCHE PASSSSSSS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+## Qu'est ce qu'un service LDAP ??
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Un service LDAP est un annuaire 
 
 ### Markdown
 
