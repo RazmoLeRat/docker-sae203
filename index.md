@@ -4,33 +4,42 @@ Vous allez découvrir sur ce site le projet du groupe 24 qui consiste en un Serv
 
 ## Table des Matières
 
+-Introduction
+
 -Qu'est ce qu'un service LDAP?
 
-## Qu'est ce qu'un service LDAP ??
+## Introduction
+
+Nous somme dans une aire ou les entreprises ont besoins de ranger et de trier les informations de leurs clients pour une meilleure organisation.
+
+## Qu'est ce qu'un service LDAP ?
 
 Un service LDAP est un annuaire qui permet de trier et de ranger des informations à propos d'un sujet en particulier.
 Dans notre cas, nous allons chercher à stocker les informations des clients d'une entreprise quelconque.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## A quoi ressemble un service LDAP ?
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[image] ldap-images_ldapreq.png
 
-- Bulleted
-- List
+voici un exemple de service LDAP ou l'on peux voir le client envoyé 3 requêtes au serveur.
 
-1. Numbered
-2. List
+On peut aussi remarquer que le serveur envoie trois réponses au client.
 
-**Bold** and _Italic_ and `Code` text
+ceci est un exemple simple de ce qu'est le service LPDA.
 
-[Link](url) and ![Image](src)
+[image] org_cs.png
+
+Cette image illustre le fonctionnement avec des exemples concrets qui sont le plus utiliser a savoir: 
+
+une connexion ou authentification de la part du client 
+
+un résultat de connexion de la part du serveur.
+
+Le client fait ensuite ses recherches et le clients répond.
+
+Et si le client abandonne la session alors le serveur effectue une déconnexion du client.
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
