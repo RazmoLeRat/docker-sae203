@@ -8,6 +8,8 @@ Vous allez découvrir sur ce site le projet du groupe 24 qui consiste en un Serv
 
 -Qu'est ce qu'un service LDAP?
 
+-A quoi ressemble un service LDAP ?
+
 ## Introduction
 
 Nous somme dans une aire ou les entreprises ont besoins de ranger et de trier les informations de leurs clients pour une meilleure organisation.
@@ -31,7 +33,7 @@ On peut aussi remarquer que le serveur envoie trois réponses au client.
 Ceci est un exemple simple de ce qu'est le service LPDA.
 
 
-![org_cs](https://user-images.githubusercontent.com/102509339/170023010-8a218c11-a530-47cb-b755-4840d41552b0.png)
+![Docker](http://igm.univ-mlv.fr/~dr/XPOSE2009/ldap/content/img/org_cs.png)
 
 Cette image illustre le fonctionnement avec des exemples concrets qui sont le plus utiliser a savoir: 
 
