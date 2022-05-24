@@ -21,7 +21,7 @@ Dans notre cas, nous allons chercher à stocker les informations des clients d'u
 
 ```markdown
 
-![téléchargement](https://user-images.githubusercontent.com/102509339/170023525-7e1d6850-f2ed-47dd-b07d-ab5e4a24e310.jpeg)
+![Docker](https://img-19.ccm2.net/rAXjq6Q_4FxpkoNE5tOstJcMI9Q=/13adf124801f40e9ae409ea794e30a12/ccm-encyclopedia/ldap-images-ldapreq.gif)
 
 
 Voici un exemple de service LDAP ou l'on peux voir le client envoyé 3 requêtes au serveur.
