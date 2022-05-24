@@ -21,8 +21,6 @@ Dans notre cas, nous allons chercher à stocker les informations des clients d'u
 
 ## A quoi ressemble un service LDAP ?
 
-```markdown
-
 ![Docker](https://img-19.ccm2.net/rAXjq6Q_4FxpkoNE5tOstJcMI9Q=/13adf124801f40e9ae409ea794e30a12/ccm-encyclopedia/ldap-images-ldapreq.gif)
 
 
@@ -44,4 +42,4 @@ un résultat de connexion de la part du serveur.
 Le client fait ensuite ses recherches et le clients répond.
 
 Et si le client abandonne la session alors le serveur effectue une déconnexion du client.
-```
+
